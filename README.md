@@ -38,7 +38,7 @@ Scikit-learn
 ## Installation
 
 Clone the repository
-git clone 
+git clone https://github.com/MominaSiddiq/AI_Generated_vs_HumanCreated_Sketches.git
 
 Nevigate to the Project 
 cd ai-vs-human-sketch-classification
